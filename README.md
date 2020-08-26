@@ -1,9 +1,26 @@
 # Strider-UE4-ExampleProject and IssueTracking
 The purpose of this repository is to support 'Strider' (UE4) via the following:
-- Example project (plugin not included with the example project)
+- Example project
 - Bug and issue tracking
 
 The plugin is not included with the example project, please see the UE4 Marketplace store <a href=''>page</a> (COMING SOON).
+
+<b>Example Project Instructions:</b>
+The example project showcases the use of Strider nodes in an animation graph. Please note that this is not intended to be a fully complete, production ready animation graph. However, it does give a good example of the general structure of an animation graph using Strider.
+
+To setup the example project follow the steps below:
+1. Clone or download the example project from this repository
+2. Add the project to the Unreal Engine launcher
+3. Add the 'Strider' plugin to the project through the Unreal Engine Launcher
+4. Open the project
+5. Enable the 'Strider' plugin (if not already enabled)
+6. Play the default map
+
+Note: Use a gamepad to clearly see the effects of stride warping.
+
+Controls: 
+Move - WASD
+Sprint - LeftShift
 
 <b>Bug Reports</b>
 

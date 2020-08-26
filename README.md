@@ -1,8 +1,9 @@
-# Strider-UE4-IssueTracking
+# Strider-UE4-ExampleProject and IssueTracking
 The purpose of this repository is to support 'Strider' (UE4) via the following:
+- Example project (plugin not included with the example project)
 - Bug and issue tracking
 
-For the core asset, please see the UE4 Marketplace store <a href=''>page</a> (COMING SOON).
+The plugin is not included with the example project, please see the UE4 Marketplace store <a href=''>page</a> (COMING SOON).
 
 <b>Bug Reports</b>
 

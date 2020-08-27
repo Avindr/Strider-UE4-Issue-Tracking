@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 2020 Kenneth Claassen, All Rights Reserved.
 
 #include "StriderTutorialUE4.h"
 #include "Modules/ModuleManager.h"

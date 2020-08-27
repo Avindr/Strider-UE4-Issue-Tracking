@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "Strider",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f8355482a34f979e848ad4d4d73dd2"
 		}
 	]
 }
